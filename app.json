@@ -25,6 +25,7 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
+    "owner": "gmlesov",
     "extra": {
       "eas": {
         "projectId": "78acf555-8602-42d4-9406-12cd12a9bcfe"
